@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#app{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(211, 226, 43);
+}
+#addTaskBtn{
+    background-color: rgb(42, 165, 54);
+    margin: 5px;
+    color: aqua;
+}
